@@ -14,11 +14,11 @@ This project is a Java-based console application that allows users to book movie
 9)Persistent storage using bookings.dat
 
 **** Technologies Used :
-# java 8+
-# OOP Concept
-# Collections framework
-# Serialization
-# LocalDateTime API
+1)java 8+
+2) OOP Concept
+3) Collections framework
+4) Serialization
+5) LocalDateTime API
 
 **** How to Compile & Run
 1) Compile
